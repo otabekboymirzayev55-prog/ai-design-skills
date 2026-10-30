@@ -1,5 +1,7 @@
 # AI Design Skills
 
+This repository is an adapted collection based on [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills). It is a developer toolkit, not a hosted application.
+
 A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file.
 
 Each skill is a self-contained folder. Install the ones you need.
